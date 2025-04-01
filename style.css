@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(255, 193, 231);
+    background-image: linear-gradient(rgb(255, 193, 231), white); 
+    font-family: "Brush Script MT", cursive;
+    background-size: auto;
+    }
+    h1{
+        display: flex;
+        justify-content: center;
+        font-size: 60px;
+        text-align: left;
+        border:10px solid plum;
+        border-style: dashed;
+        width:235px;
+    }
+    p{
+
+        font-size: 50px;
+        text-align: center;
+        border:10px solid plum;
+        width:1495px;
+    }
+    
